@@ -1,0 +1,35 @@
+{
+  "name": "client-db",
+  "version": "0.0.1",
+  "description": "Client side data storage",
+  "main": "build/index.js",
+  "author": "Dexter Esajas <dexter.esajas@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/hawkerboy7/client-db#readme",
+  "devDependencies": {
+    "de-builder": "^0.7.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawkerboy7/client-db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hawkerboy7/client-db/issues"
+  },
+  "keywords": [
+    "client",
+    "client-side",
+    "client side",
+    "database",
+    "client-side database",
+    "client side database",
+    "event based",
+    "event-based",
+    "eventemitter",
+    "event-emitter",
+    "verbose"
+  ],
+  "dependencies": {
+    "mini-event-emitter": "^0.5.3"
+  }
+}
